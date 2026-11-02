@@ -1,0 +1,6 @@
+{
+  "name": "Испанский без путаницы — Español Fácil",
+  "description": "Интерактивное образовательное приложение для начинающих (A1) с кликабельным переводом, озвучкой, разбором типичных ошибок и мини-играми.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
